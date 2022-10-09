@@ -1,0 +1,345 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2012, 2013.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-31 02:16+0100\n"
+"PO-Revision-Date: 2020-06-22 16:58+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrej Mernik,Matjaž JEran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrejm@ubuntu.si,matjaz.jeran@amis.net"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gameTypeGroup)
+#: general.ui:35
+#, kde-format
+msgid "Game Type"
+msgstr "Vrsta igre"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:42
+#, kde-format
+msgid "KSnakeDuel: Player vs Computer"
+msgstr "KSnakeDuel: človek proti računalniku"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:47
+#, kde-format
+msgid "KSnakeDuel: Player vs Player"
+msgstr "KSnakeDuel: človek proti človeku"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_GameType)
+#: general.ui:52
+#, kde-format
+msgid "KSnake: Single player"
+msgstr "KSnake: enoigralski način"
+
+#. i18n: ectx: property (text), widget (QLabel, gameTypeLabel)
+#: general.ui:60
+#, kde-format
+msgid "Game type:"
+msgstr "Vrsta igre:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, behaviorGroup)
+#: general.ui:73
+#, kde-format
+msgid "Behavior"
+msgstr "Obnašanje"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AcceleratorBlocked)
+#: general.ui:79
+#, kde-format
+msgid "&Disable acceleration"
+msgstr "&Onemogoči pospeševanje"
+
+#. i18n: ectx: property (title), widget (QGroupBox, playerNamesGroup)
+#: general.ui:89
+#, kde-format
+msgid "Player Names"
+msgstr "Imena igralcev"
+
+#. i18n: ectx: property (text), widget (QLabel, namePlayer1Label)
+#: general.ui:101
+#, kde-format
+msgid "Right player / KSnake:"
+msgstr "Desni igralec / KSnake:"
+
+#. i18n: ectx: property (text), widget (QLabel, namePlayer2Label)
+#: general.ui:111
+#, kde-format
+msgid "Left player:"
+msgstr "Levi igralec:"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gameOptionsGroup)
+#: general.ui:124
+#, kde-format
+msgid "Game Options"
+msgstr "Možnosti igre"
+
+#. i18n: ectx: property (text), widget (QLabel, roundsLabel)
+#: general.ui:130
+#, kde-format
+msgid "Rounds to win"
+msgstr "Rund do zmage"
+
+#. i18n: ectx: label, entry (Theme), group (General)
+#: ksnakeduel.kcfg:9
+#, kde-format
+msgid "The graphical theme to be used."
+msgstr "Uporabljena grafična tema."
+
+#. i18n: ectx: label, entry (AcceleratorBlocked), group (Game)
+#: ksnakeduel.kcfg:15
+#, kde-format
+msgid "Whether to disable acceleration."
+msgstr "Ali naj je pospeševanje onemogočeno."
+
+#. i18n: ectx: label, entry (NamePlayer1), group (Game)
+#: ksnakeduel.kcfg:19
+#, kde-format
+msgid "The name of player 1."
+msgstr "Ime prvega igralca."
+
+#. i18n: ectx: label, entry (NamePlayer2), group (Game)
+#: ksnakeduel.kcfg:22
+#, kde-format
+msgid "The name of player 2."
+msgstr "Ime drugega igralca."
+
+#. i18n: ectx: label, entry, group (Game)
+#: ksnakeduel.kcfg:25
+#, kde-format
+msgid "Type of the game"
+msgstr "Vrsta igre"
+
+#. i18n: ectx: label, entry, group (Game)
+#: ksnakeduel.kcfg:34
+#, kde-format
+msgid "Rounds"
+msgstr "Rund"
+
+#: ktron.cpp:66
+#, kde-format
+msgid "Right Player / KSnake: Up"
+msgstr "Desni igralec / KSnake: Gor"
+
+#: ktron.cpp:72
+#, kde-format
+msgid "Right Player / KSnake: Down"
+msgstr "Desni igralec / KSnake: Dol"
+
+#: ktron.cpp:78
+#, kde-format
+msgid "Right Player / KSnake: Right"
+msgstr "Desni igralec / KSnake: Desno"
+
+#: ktron.cpp:84
+#, kde-format
+msgid "Right Player / KSnake: Left"
+msgstr "Desni igralec / KSnake: Levo"
+
+#: ktron.cpp:90
+#, kde-format
+msgid "Right Player: Accelerator"
+msgstr "Desni igralec: Pospeševalnik"
+
+#: ktron.cpp:96
+#, kde-format
+msgid "Left Player: Up"
+msgstr "Levi igralec: Gor"
+
+#: ktron.cpp:102
+#, kde-format
+msgid "Left Player: Down"
+msgstr "Levi igralec: Dol"
+
+#: ktron.cpp:108
+#, kde-format
+msgid "Left Player: Right"
+msgstr "Levi igralec: Desno"
+
+#: ktron.cpp:114
+#, kde-format
+msgid "Left Player: Left"
+msgstr "Levi igralec: Levo"
+
+#: ktron.cpp:120
+#, kde-format
+msgid "Left Player: Accelerator"
+msgstr "Levi igralec: Pospeševalnik"
+
+#: ktron.cpp:160
+#, kde-format
+msgid "Failed to load \"%1\" theme. Please check your installation."
+msgstr "Teme »%1« ni mogoče naložiti. Preverite namestitev."
+
+#: ktron.cpp:179
+#, kde-format
+msgid "%1 has won!"
+msgstr "%1 je zmagal!"
+
+#: ktron.cpp:182 tron.cpp:321
+#, kde-format
+msgid "Game paused"
+msgstr "Premor"
+
+#: ktron.cpp:251
+#, kde-format
+msgid "Player Name:"
+msgstr "Ime igralca:"
+
+#: ktron.cpp:252
+#, kde-format
+msgid "Opponent:"
+msgstr "Nasprotnik:"
+
+#: ktron.cpp:255
+#, kde-format
+msgid "Right Player:"
+msgstr "Desni igralec:"
+
+#: ktron.cpp:256
+#, kde-format
+msgid "Left Player:"
+msgstr "Levi igralec:"
+
+#: ktron.cpp:260
+#, kde-format
+msgid "General"
+msgstr "Splošno"
+
+#: ktron.cpp:261
+#, kde-format
+msgid "Theme"
+msgstr "Tema"
+
+#: main.cpp:41 player.cpp:82
+#, kde-format
+msgid "KSnakeDuel"
+msgstr "KSnakeDuel"
+
+#: main.cpp:43
+#, kde-format
+msgid "A race in hyperspace"
+msgstr "Dirka v hiperprostoru"
+
+#: main.cpp:45
+#, kde-format
+msgid ""
+"(c) 1998-2000, Matthias Kiefer\n"
+"(c) 2005, Benjamin Meyer\n"
+"(c) 2008-2009, Stas Verberkt\n"
+"\n"
+"Parts of the algorithms for the computer player are from\n"
+"xtron-1.1 by Rhett D. Jacobs <rhett@hotel.canberra.edu.au>"
+msgstr ""
+"(c) 1998-2000, Matthias Kiefer\n"
+"(c) 2005, Benjamin Meyer\n"
+"(c) 2008-2009, Stas Verberkt\n"
+"\n"
+"Deli algoritmov za računalniškega igralca so iz igre\n"
+"xtron-1.1, Rhett D. Jacobs <rhett@hotel.canberra.edu.au>"
+
+#: main.cpp:53
+#, kde-format
+msgid "Matthias Kiefer"
+msgstr "Matthias Kiefer"
+
+#: main.cpp:53
+#, kde-format
+msgid "Original author"
+msgstr "Prvotni avtor"
+
+#: main.cpp:54
+#, kde-format
+msgid "Benjamin Meyer"
+msgstr "Benjamin Meyer"
+
+#: main.cpp:54
+#, kde-format
+msgid "Various improvements"
+msgstr "Razne izboljšave"
+
+#: main.cpp:55
+#, kde-format
+msgid "Stas Verberkt"
+msgstr "Stas Verberkt"
+
+#: main.cpp:55
+#, kde-format
+msgid "KDE 4 Port, interface revision and KSnake mode"
+msgstr "Predelava za KDE 4, predelava vmesnika in način KSnake"
+
+#: main.cpp:60
+#, kde-format
+msgid "Start in KSnake mode"
+msgstr "Začni v načinu KSnake"
+
+#: player.cpp:103
+#, kde-format
+msgid "Player %1"
+msgstr "%1. igralec"
+
+#: tron.cpp:341
+#, kde-format
+msgid "%1 has won versus %2 with %4 versus %3 point!"
+msgid_plural "%1 has won versus %2 with %4 versus %3 points!"
+msgstr[0] "%1 je premagal %2 s %4 proti %3 točko!"
+msgstr[1] "%1 je premagal %2 s %4 proti %3 točkama!"
+msgstr[2] "%1 je premagal %2 s %4 proti %3 točkami!"
+msgstr[3] "%1 je premagal %2 s %4 proti %3 točkami!"
+
+#: tron.cpp:352
+#, kde-format
+msgctxt "%2 = 'x points' [player %1], %4 = 'x points' [player %3]"
+msgid "%1 (%2) versus %3 (%4)"
+msgstr "%1 (%2) proti %3 (%4)"
+
+#: tron.cpp:353 tron.cpp:354
+#, kde-format
+msgid "%1 point"
+msgid_plural "%1 points"
+msgstr[0] "%1 točka"
+msgstr[1] "%1 točki"
+msgstr[2] "%1 točke"
+msgstr[3] "%1 točk"
+
+#: tron.cpp:362
+#, kde-format
+msgid "KSnake game ended with 1 point"
+msgid_plural "KSnake game ended with %1 points"
+msgstr[0] "Igra KSnake se je končala z %1 točko"
+msgstr[1] "Igra KSnake se je končala z %1 točkama"
+msgstr[2] "Igra KSnake se je končala s %1 točkami"
+msgstr[3] "Igra KSnake se je končala s %1 točkami"
+
+#: tron.cpp:367
+#, kde-format
+msgid ""
+"The game starts when each player has pressed one of their direction keys!"
+msgstr "Igra se začne, ko oba igralca pritisneta eno izmed smernih tipk!"
+
+#: tron.cpp:370
+#, kde-format
+msgid "Press any of your direction keys to start!"
+msgstr "Za začetek pritisnite eno izmed smernih tipk!"
